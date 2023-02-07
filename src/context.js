@@ -27,7 +27,6 @@ const AppProvider = ({ children }) => {
             glass: strGlass,
           };
         });
-        console.log(newCocktails);
         setCocktails(newCocktails);
       } else {
         setCocktails([]);
