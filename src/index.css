@@ -293,6 +293,7 @@ Form
   font-weight: bold;
   letter-spacing: 0.25rem;
   color: var(--primaryColor);
+  text-align: center;
 }
 .form-control input {
   width: 100%;
